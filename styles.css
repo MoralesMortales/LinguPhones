@@ -161,3 +161,14 @@
       background-position-x: -1000px; 
     }
   }
+
+  @media screen and (max-width: 700px){
+    #header{
+      position: relative;
+      top: 4em;
+      display: flex;
+      flex-direction: column;
+
+    }
+
+    }
